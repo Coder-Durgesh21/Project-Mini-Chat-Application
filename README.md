@@ -1,8 +1,8 @@
 Project Name :  Mini Chat Application.
 
-Technology   :  Java Programming.
+Technology   :  Python Programming.
 
-Description  :  This project is designed to perform message passing features between two 
-                users.
-                This project is designed using java networking API.
-                In this project we build connection using java socket programming.
+Description  :  • Developed a console-based client-server chat application using Python
+                • Implemented TCP-based communication between client and server
+                • Applied socket programming and networking concepts
+                • Gained practical understanding of client-server architecture
